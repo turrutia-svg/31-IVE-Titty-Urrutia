@@ -1,14 +1,14 @@
 Algoritmo Actividad2Leccion20Inciso1PSC
 	Definir claveUsuario Como Cadena
 	Definir claveCorrecta Como Cadena
-	clave_correcta = "Password123"
+	clave_correcta = "ContraseÃ±a123"
 	
-	Escribir "Por favor, ingrese su contraseña:"
+	Escribir "Por favor, ingrese su contraseÃ±a:"
 	Leer claveUsuario
 	
 	Si claveUsuario == claveCorrecta Entonces
-		Escribir "¡Bienvenido al sistema!"
+		Escribir "Â¡Bienvenido al sistema!"
 	SiNo
-		Escribir "Acceso denegado: El ingreso está prohibido."
+		Escribir "Acceso denegado: El ingreso estÃ¡ prohibido."
 	FinSi
 FinAlgoritmo
