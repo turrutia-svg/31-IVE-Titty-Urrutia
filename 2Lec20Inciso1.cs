@@ -5,7 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
 
-        string passwordCorrecta = "Password123";
+        string passwordCorrecta = "Contraseña123";
 
         Console.WriteLine("SISTEMA DE SEGURIDAD");
         Console.Write("Ingrese su contraseña: ");
